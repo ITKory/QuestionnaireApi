@@ -7,5 +7,4 @@ public partial class Answer
 
     public int QuestionId { get; set; }
 
-
 }
