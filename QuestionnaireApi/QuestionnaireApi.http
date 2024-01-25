@@ -1,0 +1,9 @@
+@QuestionnaireApi_HostAddress = http://localhost:5064
+
+ 
+###
+GET {{QuestionnaireApi_HostAddress}}/api/survey/1/questions 
+Accept: application/json
+###
+POST {{QuestionnaireApi_HostAddress}}/api/survey/7
+Accept: application/json
